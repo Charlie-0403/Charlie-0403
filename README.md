@@ -1,8 +1,8 @@
+# My Assignment
+
 **Chan Young Lee**
 
-
-
-Test
+This is my **Markdown** assignment.
 
 
 
